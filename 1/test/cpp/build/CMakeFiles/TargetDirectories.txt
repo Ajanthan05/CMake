@@ -1,0 +1,3 @@
+/home/ajanthan/myCPP/CMake/1/test/cpp/build/CMakeFiles/testsome.dir
+/home/ajanthan/myCPP/CMake/1/test/cpp/build/CMakeFiles/edit_cache.dir
+/home/ajanthan/myCPP/CMake/1/test/cpp/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,2 @@
+/usr/local/lib/libcpp.a
+/usr/local/include/cal.h
