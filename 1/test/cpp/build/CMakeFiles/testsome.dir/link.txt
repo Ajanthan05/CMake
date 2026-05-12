@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/testsome.dir/main.cpp.o -o testsome   -L/home/ajanthan/myCPP/CMake/1/test/cpp/../../someLibrary/cpp/build  -Wl,-rpath,/home/ajanthan/myCPP/CMake/1/test/cpp/../../someLibrary/cpp/build -lcpp 
